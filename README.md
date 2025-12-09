@@ -1,2 +1,2 @@
 # LearningGit
-Author - Harsh Upadhyay
+Author - Harsh Upadhyay Ji. All is well.
